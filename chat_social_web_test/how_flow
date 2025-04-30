@@ -1,0 +1,11 @@
+page (index) => all pages => to prevent mismatch paths
+    include for all page that not will appear in the browse
+    swatch for the pages that will appear in the browse
+
+validation
+    username,email,password
+    show sucess message if these are valide
+    or failed message
+    
+database 
+    store these parameters in database
